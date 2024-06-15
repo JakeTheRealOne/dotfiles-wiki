@@ -12,3 +12,6 @@ wiki link: https://github.com/JakeTheRealOne/dotfiles-wiki/wiki\
   <img src="https://github.com/JakeTheRealOne/dotfiles-wiki/blob/main/showcase/without-pa.png" width="50%">
   <img src="https://github.com/JakeTheRealOne/dotfiles-wiki/blob/main/showcase/with-pa.png" width="50%">
 </div>
+
+-Battery center: (for laptop users) the battery center let you access vitals and stats about the battery and change power mode and cpu frequency:\
+<img src="https://github.com/JakeTheRealOne/dotfiles-wiki/blob/main/showcase/battery-center.png" width="50%">
